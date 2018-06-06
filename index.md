@@ -1,2 +1,5 @@
-## 2017/10/18 kneeprayer의 블러그를 개시하였습니다.
-### 본 블러그에는 기술자료를 정리해 나아갈 예정입니다.
+## Blog 이전하였습니다.
+Blogを移行しました。
+
+http://kneeprayer.postach.io/
+
